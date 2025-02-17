@@ -1,4 +1,4 @@
-AtliQ Grands - Business & Data Intelligence
+**AtliQ Grands - Business & Data Intelligence**
 
 Problem Statement
 AtliQ Grands, a luxury hotel chain, has been in the hospitality industry for 20 years. Due to competitive market strategies and ineffective decision-making, the company is losing market share and revenue in the luxury/business hotel category.
